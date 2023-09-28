@@ -15,3 +15,7 @@ Neste projeto nosso foco é utilizar o selenium WebDrive para criar teste de ace
 ### :heavy_exclamation_mark: Desvantagens
 
 Algumas das desvantagens dos testes de aveitação é que são muito frágeis por serem muito acoplados com a tela. E caso tiver qualquer mínima alteração em tela pode afetar e até mesmo quebrar os teste criados.
+
+### Teste Implementados
+
+Como primeiro passo do curso, implementamos alguns testes na funcionalidade de Login. Onde por ser a primeira implementação do nosso projeto, tivemos que configurar o selenium WebDrive. Após sua configuração, partimos para o desenvolvimento dos testes na tela de login, para validar se o sistema logava corretamente, bloqueava acesso a URL restritas e caso ocorresse algum login com credencial invalida daria algum retorno de que não foi possível realizar a autenticação.
