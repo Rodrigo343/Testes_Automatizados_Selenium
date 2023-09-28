@@ -12,6 +12,6 @@ Neste projeto nosso foco é utilizar o selenium WebDrive para criar teste de ace
 3. Suporte a diversos Browsers (Chrome, FireFox, Opera, etc.)
 4. APi simples de utilizar
 
-### Desvantagens
+### :heavy_exclamation_mark: Desvantagens
 
 Algumas das desvantagens dos testes de aveitação é que são muito frágeis por serem muito acoplados com a tela. E caso tiver qualquer mínima alteração em tela pode afetar e até mesmo quebrar os teste criados.
